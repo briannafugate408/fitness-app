@@ -1,0 +1,8 @@
+{
+  "name": "fitness-app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/fitness-app/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
